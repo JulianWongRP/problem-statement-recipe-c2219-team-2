@@ -8,5 +8,3 @@ All "Components" (Navbar, RecipeDetails, RecipeForms, Edit and AI) -> Julian (an
 Other Frontend: Rest of the group
 
 **Currently using singular account for testing**
-email: usertest02@gmail.com
-password:   
